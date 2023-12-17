@@ -1,1 +1,20 @@
+Student grades prediction
+
+Project Description
+The dataset contains grades scored by students throughout their university tenure in various courses and their CGPA calculated based on their grades
+
+Columns Description-  a total of 43 columns
+
+Seat No: The enrolled number of candidates who took the exams.
+
+CGPA: The cumulative GPA is based on the four-year total grade progress of each candidate. CGPA is a Final Marks -- provided to students.
+ 
+All other columns are course codes in the format AB-XXX where AB is are alphabet representing candidates' departments and XXX are numbers where the first X represents the year the candidate took the exam.
+
+ 
+Predict - CGPA of a student based on different grades in four years.
+
+Dataset Link-
+•  https://github.com/dsrscientist/dataset4
+•  https://github.com/dsrscientist/dataset4/blob/main/Grades.csv
 
